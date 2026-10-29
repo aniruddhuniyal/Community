@@ -45,10 +45,10 @@ Got a list worth ranking? Open a PR against `top-10` with your entry. If it's ra
 
 ## Contributing
 
-1. Fork the repo
-2. Branch off the one you're contributing to
-3. Make your change
-4. Open a PR with a short description of what and why
+1. Fork the repo.
+2. Branch off the one you're contributing to.
+3. Make your change.
+4. Open a PR with a short description of what and why.
 
 That's it.
 
